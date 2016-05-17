@@ -1,0 +1,17 @@
+body {
+  background: #D1B38F;
+  position: fixed;
+  left: 50%;
+  margin-left: -200px;
+}
+
+header {
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.about {
+  font-size: 15px;
+  color: #800080;
+  font-family: cursive;
+}
